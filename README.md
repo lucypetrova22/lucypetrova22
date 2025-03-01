@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucy Petrova
-- 👀 I’m currently working on creating a chess engine that calculates best possible moves
+- 👀 I’m currently working on creating a chess engine a Saas product
 - 😄 Pronouns: she/her
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucypetrova22&show_icons=true)
